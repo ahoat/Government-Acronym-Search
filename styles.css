@@ -1,0 +1,44 @@
+* {
+    font-family: Mulish, sans-serif;
+    color: rgb(71, 70, 118);
+    margin: 0;
+    
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3rem;
+    background-color: rgb(193, 190, 190);
+}
+
+#form {
+    margin-top: 3rem;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#searchBar {
+    margin-top: 1.25rem;
+    min-width: 60vw;
+    height: 1.75rem;
+}
+
+
+#output {
+    margin: 2rem;
+    max-width: 60rem;
+    justify-content: flex-start;
+    padding: 0rem 3rem;
+}
+
+.data {
+    padding-top: 1rem;
+}
+
+.error > * {
+    color: red;
+}
