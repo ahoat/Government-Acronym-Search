@@ -6,8 +6,8 @@ The data is based on the first table here:
 
 ## Screenshots
 
-<img src="https://github.com/ahoat/Government-Acronym-Search/blob/main/image1.JPG" width="50px">
-<img src="https://github.com/ahoat/Government-Acronym-Search/blob/main/error.JPG" width="50px">
+<img src="https://github.com/ahoat/Government-Acronym-Search/blob/main/image1.JPG" width="200px">
+<img src="https://github.com/ahoat/Government-Acronym-Search/blob/main/error.JPG" width="200px">
 
 ## Method
 
